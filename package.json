@@ -1,0 +1,14 @@
+{
+  "name": "rollup-hash-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rollup": "^1.4.1"
+  }
+}
